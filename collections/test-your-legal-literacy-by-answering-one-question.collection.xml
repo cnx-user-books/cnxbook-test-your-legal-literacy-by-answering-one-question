@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="John Bosco">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11228</md:content-id>
     <md:title>Test your Legal Literacy by Answering One Question</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>412c9810-8c41-40f9-b4f3-23015543a6f2</md:uuid>
-<md:slug>test-your-legal-literacy-by-answering-one-question</md:slug>
-</metadata>
+    <md:slug>test-your-legal-literacy-by-answering-one-question</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>(Untitled)</md:title>
